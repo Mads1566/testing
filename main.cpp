@@ -7,8 +7,8 @@
 
 #include "main.h"
 
-int main(int argc, char** argv) {
-  std::cout << "Hello World!" << std::endl;
+int main() {
+  cout << "Hello World!" <<endl;
   
   return 0;
 }
