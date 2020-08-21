@@ -9,6 +9,5 @@
 #define HELLOWORLD_MAIN_H
 
 #include <iostream>
-using namespace std;
 
 #endif //HELLOWORLD_MAIN_H
